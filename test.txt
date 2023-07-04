@@ -2,3 +2,5 @@ This is a test file
 let me try something
 this is line 3 for fun
 this is line 4 for happiness
+This a contributer adding line.
+EOF!
